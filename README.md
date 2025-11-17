@@ -1,1 +1,1 @@
-# Naive-Bayes-Class.-with-Iris-Species-dataset
+# Naive Bayes Classsification with "Iris Species" Dataset
